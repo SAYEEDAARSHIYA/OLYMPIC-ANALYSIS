@@ -1,2 +1,2 @@
-# OLYMPIC-ANALYSIS
-DETAILED ANALYSIS OF OLYMPICS GAME
+# Olympics-_Analysis
+Detailed Analysis of Olympics Game
